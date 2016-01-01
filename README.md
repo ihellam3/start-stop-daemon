@@ -11,6 +11,13 @@ Extract the source file to some location and execute the following:
   sudo mv start-stop-daemon /usr/sbin/start-stop-daemon
 ```
 
+Example
+============
+
+https://github.com/RMerl/asuswrt-merlin/blob/master/release/src/router/minidlna/linux/minidlna.init.d.script.tmpl
+
+
+
 Notes:
 ======
 The source code was extracted from:
